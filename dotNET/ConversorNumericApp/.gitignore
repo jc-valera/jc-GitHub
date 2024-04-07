@@ -1,0 +1,12 @@
+# Visual Studio code
+.vscode
+
+# Build results
+BLL/[Bb]in/
+BLL/[Oo]bj/
+
+ConversorNumericApp/[Bb]in/
+ConversorNumericApp/[Oo]bj/
+
+# Visual Studio
+.vs/

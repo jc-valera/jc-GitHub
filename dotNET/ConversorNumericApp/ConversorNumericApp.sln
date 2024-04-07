@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorNumericApp", "ConversorNumericApp\ConversorNumericApp.csproj", "{B0BCB242-291B-4BEB-9479-DF53EAAAB810}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E782DBD8-15EA-46E3-972E-AD708FE84ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{578F52F1-B77B-4925-B941-8A7FF749BCE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BCB242-291B-4BEB-9479-DF53EAAAB810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BCB242-291B-4BEB-9479-DF53EAAAB810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BCB242-291B-4BEB-9479-DF53EAAAB810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BCB242-291B-4BEB-9479-DF53EAAAB810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578F52F1-B77B-4925-B941-8A7FF749BCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578F52F1-B77B-4925-B941-8A7FF749BCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578F52F1-B77B-4925-B941-8A7FF749BCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578F52F1-B77B-4925-B941-8A7FF749BCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{578F52F1-B77B-4925-B941-8A7FF749BCE3} = {E782DBD8-15EA-46E3-972E-AD708FE84ABD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59DEB1C3-6D45-4448-B4F8-7A03949CB302}
+	EndGlobalSection
+EndGlobal

@@ -1,2 +1,2 @@
 
-### This are my projects are developer.
+### This are my projects as a developer.
